@@ -20,7 +20,7 @@
   },
   "Services": [
     {
-      "icon": "fa fa-address-card",
+      "icon": "fa fa-folder",
       "name": "Dashboards",
       "text": "Our platform provides a detailed dashboard for eavery teacher and student to track their work effectively and have all their records under one place"
     },
