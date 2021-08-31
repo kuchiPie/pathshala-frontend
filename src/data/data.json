@@ -22,32 +22,32 @@
     {
       "icon": "fa fa-wordpress",
       "name": "Dashboards",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Our platform provides a detailed dashboard for eavery teacher and student to track their work effectively and have all their records under one place"
     },
     {
       "icon": "fa fa-cart-arrow-down",
       "name": "Assignment Management",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Teachers have the ease of assigning tasks to their students, analysing complete class perfomance and they could even update or change the assignments as per their choice. "
     },
     {
       "icon": "fa fa-cloud-download",
       "name": "Creation of class",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": ""
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Secure and Rapid",
+      "text": "There whole flow of website is simple and quick and the data is arranged systematicaly. "
     },
     {
       "icon": "fa fa-plane",
-      "name": "Accesible from any device",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "User-friendly",
+      "text": "The interface of website is such that anyone can become accustomed to it and website can be accessed from any device."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Transparency",
+      "text": "There is no loss of data and it cant be manipulated so it plays a fair part for every user."
     }
   ],
  
