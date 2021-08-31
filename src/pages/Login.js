@@ -22,7 +22,7 @@ function Login() {
                         <TextInput name="Password" />
                     </div>
                     <div style={{ marginBottom: '2rem' }}>
-                        <PTSBtn label="Log In" route="/home" />
+                        <PTSBtn label="Log In" route="/home/dashboard" />
                     </div>
                     <Typography style={{ fontSize: '1.8rem', textAlign: 'center' }}>
                         Don't have an account

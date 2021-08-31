@@ -27,7 +27,7 @@ function SignUp() {
                     <TextInput name="Password" />
                 </div>
                 <div style={{ marginBottom: '2rem' }}>
-                    <PTSBtn label="Sign Up" route="/home"/>
+                    <PTSBtn label="Sign Up" route="/home/dashboard"/>
                 </div>
                 <Typography style={{ fontSize: '1.8rem', textAlign: 'center' }}>
                     Already have an account
