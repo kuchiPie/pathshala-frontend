@@ -4,7 +4,7 @@
     "paragraph": "Common and secure One-stop userfriendly platform to manage the complete workflow of online system of teaching."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "We aim at providing the people a better interface for the management of educational ecosystem to empower them to carry out smooth functioning of their work. Online learning is rapidly becoming one of the most cost-effective ways to educate the world’s rapidly expanding workforce.",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -32,7 +32,8 @@
     {
       "icon": "fa fa-laptop",
       "name": "Easy setup",
-      "text": "Anyone with no prior experience can also setup their online educational ecosystem within just a small time."
+      "text": "Anyone with no prior experience can also setup their online educational ecosystem within just a small time.
+      "
     },
     {
       "icon": "fa fa-lock",
