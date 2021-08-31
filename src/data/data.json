@@ -20,7 +20,7 @@
   },
   "Services": [
     {
-      "icon": "fa fa-id-card",
+      "icon": "fa fa-address-card",
       "name": "Dashboards",
       "text": "Our platform provides a detailed dashboard for eavery teacher and student to track their work effectively and have all their records under one place"
     },
@@ -41,7 +41,7 @@
       "text": "There whole flow of website is simple and quick and the data is arranged systematicaly. "
     },
     {
-      "icon": "fa fa-handshake-o",
+      "icon": "fa fa-group",
       "name": "User-friendly",
       "text": "The interface of website is such that anyone can become accustomed to it and website can be accessed from any device."
     },
