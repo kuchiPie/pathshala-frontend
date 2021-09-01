@@ -1,25 +1,9 @@
-# React JS Landing Page Template
+# Pathshala forntend code
 
 
-### <a href="https://react-landing-page-template.herokuapp.com">LIVE DEMO</a> 
+### <a href="http://pathshala123.herokuapp.com">LIVE DEMO</a> 
 
 ## Description
-This is a ReactJS based landing page template, fit for a startup company/service with a one page view. The design is inspired by a template from <a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
-All 'visual' data can be easily modified by changing the data.json file.
+This is the frontend code for the pathshala's frontend. It has a beautiful landing page, login/signup page and a dashboard to support the backend.
 
-## Make it Yours!
-### 1. Preps
-You will need to have <a href="https://nodejs.org/">Node JS</a> installed on your pc. 
-
-### 2. Clone Files
-After cloning the files, you will have to run ```yarn``` followed by ```yarn start``` in the CLI
-### 3. Add your own data 
-Change the data in the ```data.json``` file as well as add any images to ```public/img/```
-You can also change styles by modifying the ```public/css``` files.
-
-
-## Credits
-##### Free CSS 
-<a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
-
-##### Issaaf kattan
+We aim at providing the people a better interface for the management of educational ecosystem to empower them to carry out smooth functioning of their work. Online learning is rapidly becoming one of the most cost-effective ways to educate the world’s rapidly expanding workforce.
